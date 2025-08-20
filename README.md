@@ -1,6 +1,8 @@
 # Bogdan-Tropchev-employees
 Create an application that identifies the pair of employees who have worked together on common projects for the longest period of time
 
+![Alt text](employees-screenshot.png)
+
 node v20.19.4
 npm 10.8.2
 
